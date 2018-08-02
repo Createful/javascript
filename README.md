@@ -479,6 +479,8 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+>>>>>>>>>>>>>>>>>>>>> Createful Bookmark
+
 ## Destructuring
 
   <a name="destructuring--object"></a><a name="5.1"></a>
